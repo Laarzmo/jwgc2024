@@ -1,0 +1,12 @@
+{
+  "comps": [
+      {
+          "id": "jwgc2024",
+          "name": "13th FAI JUNIOR WORLD GLIDING CHAMPIONSHIPS - CLUB",
+          "short": "jwgc2024 - Club",
+          "task": "https://www.soaringspot.com/en_gb/jwgc2024/results/club",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/Laarzmo/jwgc2024/main/glidersClub"
+}
